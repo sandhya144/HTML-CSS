@@ -1,0 +1,21 @@
+h1{
+    color:rgb(184, 0, 0);
+}
+
+p{
+    color: rgb(6, 6, 255);
+}
+
+body{
+    background-color: #17153B
+}
+
+button{
+    color: antiquewhite;
+    /* background-color: yellowgreen; */
+    background-color: #ff0000 ;
+}
+
+#headingOne{
+    color: aqua;
+}
