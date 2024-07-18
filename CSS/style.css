@@ -3,7 +3,8 @@ h1{
 }
 
 p{
-    color: rgb(6, 6, 255);
+    color: rgb(249, 255, 254);
+    text-align: right;
 }
 
 body{
@@ -19,4 +20,24 @@ button{
 #headingOne{
     color: aqua;
     text-align: center;
+    text-decoration: underline;
+    font-weight: 200;
 }
+
+.myClass{
+    color: #ff0000;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(37, 166, 1);
+}
+
+#one{
+    font-family: sans-serif;
+}
+#two{
+    font-family: 'Segoe UI';
+}
+
+
