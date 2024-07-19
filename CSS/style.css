@@ -36,22 +36,42 @@ a{
 #one{
     font-family: sans-serif;
     line-height: 50px;
-
+    background-color: rgb(228, 142, 132);
+    border-color: black;
+    border-style: dashed;
+    color: black;
 }
 #two{
     font-family: 'Segoe UI';
     line-height: 25px;
     text-transform: uppercase;
+    background-color: rgb(228, 142, 132);
+    color: black;
 }
 
 #hello1{
     font-size: 55px;
-
-
+    background-color: aqua;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    color: black;
+   border-radius: 25px ;
 }
 
 #hello2{
     font-size: 25px;
 
 }
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink ;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(226, 98, 29);
+    border-radius: 20px ;
+}
+
 
